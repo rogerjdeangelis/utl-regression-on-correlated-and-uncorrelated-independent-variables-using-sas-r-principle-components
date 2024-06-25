@@ -22,6 +22,7 @@ Regression on correlated and uncorrelated independent variables using sas r prin
                transform simutaneously X1 with X2 by applying PCA eigenvectors to X1 and X2
                Could also use Cholesky decomposition
              3 Perplexity summarization of Uncorrelated Regression on end
+             4. Related repos
 
          The major drawback pf PCA regression is loss of information contained in the natural variables, ie age, height ...
          PCA creates two new variables wheree PC1 is a linear combination of X1 and X2 anf PC2 is an
@@ -663,6 +664,34 @@ Regression on correlated and uncorrelated independent variables using sas r prin
     [3] https://statproofbook.github.io/P/slr-olscorr.html
     [4] https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/
     [5] http://faculty.cas.usf.edu/mbrannick/regression/Part3/ImportanceNarrative.html
+    /*  _                              
+    | || |    _ __ ___ _ __   ___  ___ 
+    | || |_  | `__/ _ \ `_ \ / _ \/ __|
+    |__   _| | | |  __/ |_) | (_) \__ \
+       |_|   |_|  \___| .__/ \___/|___/
+                  |_|              
+    */
+    REPO                                                                                                                              
+    ----------------------------------------------------------------------------------------------------------------------------------
+    https://github.com/rogerjdeangelis/utl-betas-for-rolling-regressions                                                              
+    https://github.com/rogerjdeangelis/utl-calculate-regression-coeficients-in-base-sas-fcmp-proc-reg-r-and-python                    
+    https://github.com/rogerjdeangelis/utl-calculate-the-regression-slope-for-each-patient-by-treatment                               
+    https://github.com/rogerjdeangelis/utl-drop-down-to-python-for-a-regression-sas-python-interface                                  
+    https://github.com/rogerjdeangelis/utl-generate-all-possible-paiwise-interactions-products-regression                             
+    https://github.com/rogerjdeangelis/utl-linear-regression-in-python-R-and-sas                                                      
+    https://github.com/rogerjdeangelis/utl-locating-breakpoints-for-dogleg-mutiple-regression-lines                                   
+    https://github.com/rogerjdeangelis/utl-outlier-analysis-based-on-robust-regression                                                
+    https://github.com/rogerjdeangelis/utl-piecewise-regression-find-the-breakpoint                                                   
+    https://github.com/rogerjdeangelis/utl-random-forest-regression-vs-linear-regression-with-uncorrelated-independent-variables-in-r 
+    https://github.com/rogerjdeangelis/utl-regression-line-plus-and-minus-the-interquartile-range-of-dependent-variable               
+    https://github.com/rogerjdeangelis/utl-scatter-plot-with-regression-line-coefficients-and-pvalue-in-one-datastep-sgplot           
+    https://github.com/rogerjdeangelis/utl-simple-example-of-meta-regression-using-SAS-and-R                                          
+    https://github.com/rogerjdeangelis/utl-using-linear-regression-with-base-sas-and-r-to-interpolate-missimg-values                  
+    https://github.com/rogerjdeangelis/utl-using-the-regression-equation-to-score-a-table-like_a_weighted-sum                         
+    https://github.com/rogerjdeangelis/utl_dosubl_do_regressions_when_data_is_between_dates                                           
+    https://github.com/rogerjdeangelis/utl_excluding_rolling_regressions_with_one_on_more_missing_values_in_the_window                
+    https://github.com/rogerjdeangelis/utl_how_to_automate_a_series_of_logistic_regressions                                           
+    https://github.com/rogerjdeangelis/utl_multiple-regressions-using-arrays                                                          
 
     /*              _
       ___ _ __   __| |
